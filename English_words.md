@@ -8,12 +8,28 @@ ____          _            _       _____
 |_| \_\___|\__,_|\__,_|_|  |_|     |_____|___/
 ```
 
+<!-- TOC GFM -->
 
++ [English's stences](#englishs-stences)
+	* [每日句子](#每日句子)
+		- [0](#0)
+		- [1](#1)
+		- [2](#2)
+		- [2](#2-1)
++ [Enlish's phrase](#enlishs-phrase)
+		- [短语](#短语)
++ [words](#words)
+		- [单词012](#单词012)
++ [The English words notes](#the-english-words-notes)
+		- [近义词](#近义词)
+
+<!-- /TOC -->
 
 
 
 # English's stences
-### 每日句子
+## 每日句子
+### 0
  | English                                                                                                                         | Chinese                                                                    |
  |---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
  | 1.You can't blame gravity for falling in love.                                                                                  | 1.坠入爱河这事，你可不能怪地心引力。                                       |
@@ -116,56 +132,158 @@ ____          _            _       _____
  | 98.Where there is no desire, there will be no industry.                                                                         | 98.哪里没有欲望，哪里就不会有勤奋。                                        |
  | 99.Sometimes it's about doing the right thing, even if it's painful inside.                                                     | 99.有时候就是要做对的事，哪怕内心万分痛苦。                                |
  | 100.It takes more than intelligence to act intelligently.                                                                       | 100.头脑聪明不代表就能明智地行事。                                         |
- | 101.As a body everyone is single, as a soul never.                                                                              | 101.每个人的身体都是独立的，但灵魂从来不是。                               |
- | 102.There is a holiness to the heart's affections.                                                                              | 102.内心深处的爱意是神圣的。                                               |
- | 103.Never let your persistence and passion turn into stubbornness and ignorance.                                                | 103.永远不要让你的坚持和激情变成固执和无知。                               |
- | 104.The biggest communication problem is we do not listen to understand. We listen to reply.                                    | 104.最大的沟通问题是，很多人聆听不是为了理解，只是为了回答。               |
- | 105.Education is a progressive discovery of our own ignorance.                                                                  | 105.教育是一个逐步发现自己无知的过程。                                     |
- | 106.A minute on the lips, a lifetime on the hips.                                                                               | 106.嘴上一时享受，臀上一世肥肉。                                           |
- | 107.The truth is, each of us is related.It's just a question of how far back you traced your family tree.                       | 107.事实上，我们每个人都是血缘关系的。看你在家谱里往回推算多远。           |
- | 108.Love has no age, no limit, and no death                                                                                     | 108.爱不分年龄，没有限制，永不凋谢。                                       |
- | 109.What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.                         | 109.与你内心的力量相比，过往的艰难和未来的挑战都黯然失色。                 |
- | 110.Only people in love believe they were destined to meet.                                                                     | 只有恋爱中的人，才会认为他们的相遇不是偶然的。                             |
- | 111.We do not remember days, we remember monments.                                                                              | 111.我们往往记住的不是某一天，而是某个时刻。                               |
- | 112.Rememberance is the beginning of healing.                                                                                   | 铭记才是治愈的开始。                                                       |
- | 113.Sometimes life hits you in the head with a brick. Don't lose faith.                                                         | 113.有时生活给你当头痛击，但是别丧失信念。                                 |
- | 114.A flower cannot blossom without sunshine, and man cannot live without love.                                                 | 114.花没有阳光就不能盛开，人没有爱就不能生存。                             |
- | 115.The world is a book, and those who do not travel read only a page.                                                          | 115.世界是一本书，　不旅行的人只读了其中一页。                             |
- | 116.Anyone can hold a grudge, but it takes real courage to forgive.                                                             | 116.任何人都可以有咒怨，但是宽恕需要真的勇气。                             |
- | 117.Any sufficiently advanced teachnology is indistinguishable from magic.                                                      | 117.任何足够先进的技术都与魔法无异。                                       |
- | 118.If you cannot be a poet, be the poem.                                                                                       | 118.如果你不能成为一个诗人，就活成一首诗。                                 |
- | 119.I am an old soul. I like old music and old movies and even old people.                                                      | 119.我的灵魂已经老了。我喜欢老歌、老电影甚至老成的人。                     |
- | 120.The world may be full of cheating, however we never lack friends with a warm heart.                                         | 120.有时候世界虽然是假的，但并不是缺少真心对待我们的人。                   |
- | 121.The sooner you learn it's on you to make your own life interesting, the better off you'll be.                               | 121.有趣的生活要靠自己创造，这个道理越早知道越好。                         |
- | 122.Shed no tears for me, my glory lives forever!                                                                               | 122.不要为我流泪，我的荣誉将永远流传。                                     |
- | 123.Books are the bees which carry the quickening pollen from one to another mind.                                              | 书籍是蜜蜂，将花粉从一个头脑传到另一个头脑。                               |
- | 124.If you look for it, I've got a sneaky feeling you'll find that love actually is all around.                                 | 124.如果你仔细寻找，你会发现爱其实无处不在。                               |
- | 125.All are past and gone!For truly great men, Look to this age alone.                                                          | 125.俱往矣，数风流人物，还看今朝。                                         |
- | 126.Get a move on, or all the good ones will have gone.                                                                         | 126.心动不行动，机会流失中。                                               |
- | 127.It's not the load that breakes you down, it's the way you carry it.                                                         | 127.压垮你的不是那些重担，而是你背负的方式。                               |
- | 128.Travel can be one of the most rewarding forms of introspection.                                                             | 128.旅行可能是最有益的自省方式之一。                                       |
- | 129.We will all be judged by the courage of our hearts.                                                                         | 129.最终，衡量我们的是内心的勇气。                                         |
- | 130.Just because you make a good plan, doesn't mean that's what's gonna happen.                                                 | 130.制定完美的计划不代表事情会按着计划发生。                               |
- | 131.All you need is the plan, the road map, and the courage to press on to your destination.                                    | 131.你所需要的只是计划，路线图，以及朝着目标前进的勇气。                   |
- | 132.But in times of crisis the wise build bridges, while the foolish build barriers.                                            | 132.危机四伏之时，智者筑桥，愚者设障。                                     |
- | 133.Great things are not accomplished by those who yied to trends and fads and popular opinion.                                 | 133.伟大的事情不是由那些向趋势、流行及大众观点屈服的人完成。               |
- | 134.It's when you start to become really afraid of death that you learn to appreciate life.                                     | 134.只有当你真正感受到对死亡的恐惧，你才会学到要珍惜生命。                 |
- | 135.It would be a privilege to have my heart broken by you.                                                                     | 135.能为你心碎是我最大的荣幸。                                             |
- | 136.What drains your spirit drains your body. What fuels your spirit fuels your body.                                           | 136.消耗你心灵的事物也会消耗你的健康，滋补你心灵的事物也会滋补你的身体。   |
- | 137.You can nearly always enjoy something, if you make up your mind firmly that you will.                                       | 137.只要你下定决心曲做某件事，总能从中找到乐趣。                           |
- | 138.For small creatures such as we the vastness is bearable only through love.                                                  | 138.如此渺小的我们，只有通过爱，才能承受宇宙的广漠。                       |
- | 139.The most important kind of freedom is to be what you really are.                                                            | 139.最重要的自由是成为真正的你。                                           |
- | 140.There are many things that seem impossible only so long as one does not attempt them.                                       | 140.很多事情看起来不可能只是因为没有人尝试过。                             |
- | 141.Ambition is the path to sucess. Persistence is the vehicle you arrive in.                                                   | 141.雄心壮志是通往成功的道路，坚持不懈是实现目标的工具。                   |
- | 142.You keep living in the past, You are gonna wind up alone.                                                                   | 142.你要是一直活在过去，就会孤独终老。                                     |
- | 143.Standing for right when it is upopular is a true test of moral character.                                                   | 143.站在不受欢迎但正确的一边，才是真正的道德考验。                         |
- | 144.The definition of the good society is one in which virtue pays.                                                             | 144.有德的人不会吃亏，可谓之好的社会。                                     |
- | 145.Simplicity is the shortest path to a solution.                                                                              | 145.简化是找到解决办法的最短途径。                                         |
- | 146.The old dreams were good dreams. They didn't work out, but I'm glad I had them.                                             | 146.曾经的梦都是美梦，虽未成真，但庆幸我曾拥有过。                         |
- | 147.Life is 10% what happens to you and 90% how you react to it.                                                                | 147.生活的10%是发生在你身上的事，剩下的90%是你如何应对。                   |
- | 148.We must accept finite disappointment, but we must never lose infinite hope.                                                 | 148.我们必须接受失望，因为它是有限的，但千万不可失去希望，因为它是无穷的。 |
- | 149.We all deserve a standing ovation at least once in our lives.                                                               | 149.每个人都值得大家站起来为他鼓掌一次。                                   |
- |
+
+
+
+### 1
+ | English                                                                                                                           | Chinese                                                                      |
+ | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+ | 101.As a body everyone is single, as a soul never.                                                                                | 101.每个人的身体都是独立的，但灵魂从来不是。                                 |
+ | 102.There is a holiness to the heart's affections.                                                                                | 102.内心深处的爱意是神圣的。                                                 |
+ | 103.Never let your persistence and passion turn into stubbornness and ignorance.                                                  | 103.永远不要让你的坚持和激情变成固执和无知。                                 |
+ | 104.The biggest communication problem is we do not listen to understand. We listen to reply.                                      | 104.最大的沟通问题是，很多人聆听不是为了理解，只是为了回答。                 |
+ | 105.Education is a progressive discovery of our own ignorance.                                                                    | 105.教育是一个逐步发现自己无知的过程。                                       |
+ | 106.A minute on the lips, a lifetime on the hips.                                                                                 | 106.嘴上一时享受，臀上一世肥肉。                                             |
+ | 107.The truth is, each of us is related.It's just a question of how far back you traced your family tree.                         | 107.事实上，我们每个人都是血缘关系的。看你在家谱里往回推算多远。             |
+ | 108.Love has no age, no limit, and no death                                                                                       | 108.爱不分年龄，没有限制，永不凋谢。                                         |
+ | 109.What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.                           | 109.与你内心的力量相比，过往的艰难和未来的挑战都黯然失色。                   |
+ | 110.Only people in love believe they were destined to meet.                                                                       | 只有恋爱中的人，才会认为他们的相遇不是偶然的。                               |
+ | 111.We do not remember days, we remember monments.                                                                                | 111.我们往往记住的不是某一天，而是某个时刻。                                 |
+ | 112.Rememberance is the beginning of healing.                                                                                     | 铭记才是治愈的开始。                                                         |
+ | 113.Sometimes life hits you in the head with a brick. Don't lose faith.                                                           | 113.有时生活给你当头痛击，但是别丧失信念。                                   |
+ | 114.A flower cannot blossom without sunshine, and man cannot live without love.                                                   | 114.花没有阳光就不能盛开，人没有爱就不能生存。                               |
+ | 115.The world is a book, and those who do not travel read only a page.                                                            | 115.世界是一本书，　不旅行的人只读了其中一页。                               |
+ | 116.Anyone can hold a grudge, but it takes real courage to forgive.                                                               | 116.任何人都可以有咒怨，但是宽恕需要真的勇气。                               |
+ | 117.Any sufficiently advanced teachnology is indistinguishable from magic.                                                        | 117.任何足够先进的技术都与魔法无异。                                         |
+ | 118.If you cannot be a poet, be the poem.                                                                                         | 118.如果你不能成为一个诗人，就活成一首诗。                                   |
+ | 119.I am an old soul. I like old music and old movies and even old people.                                                        | 119.我的灵魂已经老了。我喜欢老歌、老电影甚至老成的人。                       |
+ | 120.The world may be full of cheating, however we never lack friends with a warm heart.                                           | 120.有时候世界虽然是假的，但并不是缺少真心对待我们的人。                     |
+ | 121.The sooner you learn it's on you to make your own life interesting, the better off you'll be.                                 | 121.有趣的生活要靠自己创造，这个道理越早知道越好。                           |
+ | 122.Shed no tears for me, my glory lives forever!                                                                                 | 122.不要为我流泪，我的荣誉将永远流传。                                       |
+ | 123.Books are the bees which carry the quickening pollen from one to another mind.                                                | 书籍是蜜蜂，将花粉从一个头脑传到另一个头脑。                                 |
+ | 124.If you look for it, I've got a sneaky feeling you'll find that love actually is all around.                                   | 124.如果你仔细寻找，你会发现爱其实无处不在。                                 |
+ | 125.All are past and gone!For truly great men, Look to this age alone.                                                            | 125.俱往矣，数风流人物，还看今朝。                                           |
+ | 126.Get a move on, or all the good ones will have gone.                                                                           | 126.心动不行动，机会流失中。                                                 |
+ | 127.It's not the load that breakes you down, it's the way you carry it.                                                           | 127.压垮你的不是那些重担，而是你背负的方式。                                 |
+ | 128.Travel can be one of the most rewarding forms of introspection.                                                               | 128.旅行可能是最有益的自省方式之一。                                         |
+ | 129.We will all be judged by the courage of our hearts.                                                                           | 129.最终，衡量我们的是内心的勇气。                                           |
+ | 130.Just because you make a good plan, doesn't mean that's what's gonna happen.                                                   | 130.制定完美的计划不代表事情会按着计划发生。                                 |
+ | 131.All you need is the plan, the road map, and the courage to press on to your destination.                                      | 131.你所需要的只是计划，路线图，以及朝着目标前进的勇气。                     |
+ | 132.But in times of crisis the wise build bridges, while the foolish build barriers.                                              | 132.危机四伏之时，智者筑桥，愚者设障。                                       |
+ | 133.Great things are not accomplished by those who yied to trends and fads and popular opinion.                                   | 133.伟大的事情不是由那些向趋势、流行及大众观点屈服的人完成。                 |
+ | 134.It's when you start to become really afraid of death that you learn to appreciate life.                                       | 134.只有当你真正感受到对死亡的恐惧，你才会学到要珍惜生命。                   |
+ | 135.It would be a privilege to have my heart broken by you.                                                                       | 135.能为你心碎是我最大的荣幸。                                               |
+ | 136.What drains your spirit drains your body. What fuels your spirit fuels your body.                                             | 136.消耗你心灵的事物也会消耗你的健康，滋补你心灵的事物也会滋补你的身体。     |
+ | 137.You can nearly always enjoy something, if you make up your mind firmly that you will.                                         | 137.只要你下定决心曲做某件事，总能从中找到乐趣。                             |
+ | 138.For small creatures such as we the vastness is bearable only through love.                                                    | 138.如此渺小的我们，只有通过爱，才能承受宇宙的广漠。                         |
+ | 139.The most important kind of freedom is to be what you really are.                                                              | 139.最重要的自由是成为真正的你。                                             |
+ | 140.There are many things that seem impossible only so long as one does not attempt them.                                         | 140.很多事情看起来不可能只是因为没有人尝试过。                               |
+ | 141.Ambition is the path to sucess. Persistence is the vehicle you arrive in.                                                     | 141.雄心壮志是通往成功的道路，坚持不懈是实现目标的工具。                     |
+ | 142.You keep living in the past, You are gonna wind up alone.                                                                     | 142.你要是一直活在过去，就会孤独终老。                                       |
+ | 143.Standing for right when it is upopular is a true test of moral character.                                                     | 143.站在不受欢迎但正确的一边，才是真正的道德考验。                           |
+ | 144.The definition of the good society is one in which virtue pays.                                                               | 144.有德的人不会吃亏，可谓之好的社会。                                       |
+ | 145.Simplicity is the shortest path to a solution.                                                                                | 145.简化是找到解决办法的最短途径。                                           |
+ | 146.The old dreams were good dreams. They didn't work out, but I'm glad I had them.                                               | 146.曾经的梦都是美梦，虽未成真，但庆幸我曾拥有过。                           |
+ | 147.Life is 10% what happens to you and 90% how you react to it.                                                                  | 147.生活的10%是发生在你身上的事，剩下的90%是你如何应对。                     |
+ | 148.We must accept finite disappointment, but we must never lose infinite hope.                                                   | 148.我们必须接受失望，因为它是有限的，但千万不可失去希望，因为它是无穷的。   |
+ | 149.We all deserve a standing ovation at least once in our lives.                                                                 | 149.每个人都值得大家站起来为他鼓掌一次。                                     |
+ | 150.The secret of getting ahead is getting started.                                                                               | 150.成功的秘诀是开始行动                                                     |
+ | 151.Opportunity does not knock,it presents itself when you beat down the door.                                                    | 机遇不会自己找上门来，它只会在你开门时出现。                                 |
+ | 152.Life is just like that sometimes, we're hoping for a unicorn and we get a goat.                                               | 152.有时候人生就是如此，我们期待的是独角兽，得到的却是山羊。                 |
+ | 153.The size of your dreams must always exceed your current capacity to achieve them.                                             | 153.你的梦想应该总是比当前的能力要大。                                       |
+ | 154.Expect the best,plan for the worst, and prepare to be surprised.                                                              | 154.抱最好的期望，做最坏的打算，并准备接受意外的惊喜。                       |
+ | 155.Problems are not stop signs, they are guidelines.                                                                             | 155.问题不是止步不前的标志，而是前进的指引。                                 |
+ | 156.A decade or two will fly like that.                                                                                           | 156.十年二十年一眨眼就过去了。                                               |
+ | 157.Inspiration usually comes during work, rather than before it.                                                                 | 灵感通常来源于工作之中，而不是什么都没做之前。                               |
+ | 158.Some people want it to happen, some wish it would happen, others make it happen.                                              | 158.有些人想要它发生，有些人希望它发生，其余的人使它发生。                   |
+ | 159.Thinking you can escape life is your problem.You can never escape life.                                                       | 159.自以为可以逃避是你的问题。人是永远无法逃避人生的。                       |
+ | 160.Let our advance worrying become advance thinking and planning.                                                                | 160.把事前忧虑的花的时间，用在事前的思索与准备上。                           |
+ | 161.Just don't be disappointed if there's not a pot of gold at the end of the rainbow.                                            | 161.千万别失望，就算彩虹尽头没有你期待的美好也没关系。                       |
+ | 162.Without hard work, nothing grows but weeds.                                                                                   | 162.少了努力，只有杂草会生长。                                               |
+ | 163.In one second your whole life can change.It only takes a moment for everything to feel quite different.                       | 163.生命真是瞬息万变，只要片刻，一切就截然不同了。                           |
+ | 164.No winter lasts forever; no spring skips its turn.                                                                            | 164.没有永恒的冬天；没有跳出时序的春天。                                     |
+ | 165.But don't worry, forgetting the trauma of childbirth is one of the great gifts of the universe.                               | 165.但是不用担心，忘记创伤是宇宙赠与的礼物之一。                             |
+ | 166.He who reigns within himself and rules his passions, desires, and fears is more than a king.                                  | 166.可以控制自己，并驾驭自己的热枕、欲望及恐惧的人，比国王更有能耐。         |
+ | 167.All friendship changes, but for the good ones it will only make it stronger.                                                  | 167.所有的友情都会变，但有的改变会让其变的强大。                             |
+ | 168.Since you are like no othes bing ever created since the beginning of time, you are incomparable.                              | 168.因为你和有史以来任何人类都不相同，所以你是无可比拟的。                   |
+ | 169.When the lord closes a door, somewhere he opens a window.                                                                     | 169.当主关上了一扇门，就会在别处打开一扇门。                                 |
+ | 170.Whenever people want you to do something they think it's wrong, they say it's "reality".                                      | 170.当人们想要你去做一些他们认为不对的事，他们就会说是“现实”。               |
+ | 171.If we survive danger it steels our courage more than anything else.                                                           | 171.如果我们在危险中生存下来，它将比任何东西都更能增加我们的勇气。           |
+ | 172.Love is what binds us, through fair or stormy weather.                                                                        | 172.爱将我们紧紧相连，共度风风雨雨。                                         |
+ | 173.The crepitation of firecrackers sends off the old year.Sweet wine and spring wind brings warmth into thousands of homes.      | 173.爆竹声中一岁除，春风送暖入屠苏。                                         |
+ | 174.Home is any four walls that enclose the right person.                                                                         | 174.只要人对了，哪里都是家。                                                 |
+ | 175.Love shall be our token;love be yours and love be mine.                                                                       | 175.爱是我们的纪念品，属于你也属于我。                                       |
+ | 176.There are some natures too noble to curb and too lofty to bend.                                                               | 176.有些性情，崇高不可遏，高傲不可屈。                                       |
+ | 177.Self-esteem is the reputation we acquire with ourselves.                                                                      | 177.自尊是我们给自己争取的信誉。                                             |
+ | 178.The best love is the kind that awakens the soul, and makes us reach for more.                                                 | 178.最好的爱能唤醒灵魂，启发我们追求卓越。                                   |
+ | 179.It's not so much how busy you are, but why you are busy.                                                                      | 重要的不是你有多忙，而是你为何而忙。                                         |
+ | 180.The universe has to move forward.Pain and loss, they define us as much as happiness or love.                                  | 宇宙必须向前发展。痛苦与失去和幸福与爱一样定义了我们。                       |
+ | 181.The real opportunity for success lies within the person and not in the job.                                                   | 成功的真正机会在于人而非工作。                                               |
+ | 182.We can only see a short distance ahead, but we can see plenty there that needs to be done.                                    | 吾等目力短浅，能见百事待践行。                                               |
+ | 183.Sometimes it is better to lose and do the right thing than to win and do the wrong thing.                                     | 有时候做对的事而输，比做错的事而赢还要好。                                   |
+ | 184.There is no birth of consciousness without pain.                                                                              | 没有伤痛，就不会有醒觉。                                                     |
+ | 185.You're never really done for as long as you've got a good story and someone to tell it to.                                    | 只要你还有个好故事，还有一个能够倾诉的人，你就永远不会完蛋。                 |
+ | 186.Being too consumed in fear all the time will result in poor quality of life.                                                  | 心中充斥太多的恐惧会让生活品质降低。                                         |
+ | 187.You go halfway around the world chasing something. And the whole time, it's in your own backyard.                             | 众里寻他千百度，穆然回首，那“物”却在灯火阑珊处。                             |
+ | 188.A dream doesn't become reality through magic;it takes sweat, determination, and hard work.                                    | 梦想的实现不是靠魔法，而是靠汗水、决心与努力。                               |
+ | 189.Only those that risk going too far can possibly know how far they can go.                                                     | 只有勇于承担风险，敢于走出去的人，才会明白他们到底能走多远。                 |
+ | 190.It is set of the sails, not the direction of the wind that determines which way we will go.                                   | 决定我们去向的不是风的方向，而是如何架起船帆。                               |
+ | 191.The person whose calls you always take, that's the relationship you're in.                                                    | 能让你随时接电话的人，才是你真正在乎的人。                                   |
+ | 192.There is no pressure when you are making a dream come true.                                                                   | 当你是在为梦想成真努力时，就不会有压力。                                     |
+ | 193.An act of true love will thaw a frozen heart.                                                                                 | 出自真爱的行动，可以融化冰冷的心。                                           |
+ | 194.The task of leadership is not to put greatness into humanity, but to elicit it.                                               | 领导者的任务不是赋予人类伟大，而是激发人类的伟大。                           |
+ | 195.The time you enjoy wasting is not wasted time.                                                                                | 你乐在其中所度过的时间，就不算浪费掉的时间。                                 |
+ | 196.A girl should be two things:classy and fabulous                                                                               | 每个女孩都该做到两点：有品味并光芒四射。                                     |
+ | 197.Women's value has been under-recognized for far too long.                                                                     | 女性的价值被低估太久了。                                                     |
+ | 198.Some people choose to see the ugliness in this world. The disarray.I choose to see the beauty.                                | 一些人选择去看见这个世界的丑陋，混乱、我选择去发现美好。                     |
+ | 199.There is no development physically or intellectually without effort, and effort means work.                                   | 没有努力，就不会有身体或智能上的成长，而努力意谓干活。                       |
+ | 200.It may not be pretty, but we headed to the city.                                                                              | 其貌虽不扬，扬帆亦远航。                                                     |
+
+### 2
+ | English                                                                                                    | Chinese                                                                      |
+ |------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+ | 201.Storms make trees take deeper roots.                                                                   | 越是经历风暴，树木扎根越深。                                                 |
+ | 202.If you don't want to give in, your only choice is to resist.                                           | 你若不愿屈服，便只能反抗。                                                   |
+ | 203.Doing things change things, no doing things, these things are exactly as they were.                    | 行动才能改变，没有行动，一切也会原封不动。                                   |
+ | 204.If no one else guards the world, then I will come forward.                                             | 如果没有别人保卫这个世界，那么我将挺身而出。                                 |
+ | 205.Through love comes calm, and through calm comes thought.                                               | 爱使人平静，而平静使人思考。                                                 |
+ | 206.Always do your best. What you plant now, you will harvest later.                                       | 永远全力以赴，今日播下的种子，终会得到丰收。                                 |
+ | 207.We live in a twilight world, and there are no friends at dusk.                                         | 这是一个混沌的世界，黄昏时分无故人。                                         |
+ | 208.The only impossible journey is the one you never begin.                                                | 唯一不可能的行程，是你从未启程的那个。                                       |
+ | 209.I always find tomorrow, but tomorrow is not a place.Tomorrow is you.                                   | 我终其一生去寻找一个名叫明天的地方，却发现明天不是一个地方，而是你。         |
+ | 210.The world's full of lonely people afraid to make the first move.                                       | 这个世界上尽是些害怕迈出第一步的孤独之人。                                   |
+ | 211.In every person who comes near you, look for what is good and strong.                                  | 对于你遇见的每一个人，寻找他的优点及强项。                                   |
+ | 212.The goal is not always meant to be reached, but to serve as a mark for our aim.                        | 目标不一定永远都会达到，但可以当我们瞄准的方向。                             |
+ | 213.I just live by the ABCs:Adventurous,Brave,Creative.                                                    | 我是三有青年：有魄力，有勇气，有创造力。                                     |
+ | 214.Let everything happen to you, beauty and terror, just keep going, no feeling is final.                 | 让所有事情发生，美好或是糟糕，就往前走，没有哪种感觉会是永久。               |
+ | 215.You must have long-ranger goals to keep you from being frustrated by short-term failures.              | 你必须要有远期目标，以让你在短期失败时不致感到受挫。                         |
+ | 216.Nothing in life is to be feared. It is only to be understood.                                          | 生活中没有可畏惧的，只要理解它就能战胜它。                                   |
+ | 217.You see, madness, as you know, is like gravity. All it takes is a little push!                         | 疯狂就像地心引力，需要做的只是轻轻一推。                                     |
+ | 218.As terrifying and painful as reality can be, it's also the only place where you can get a decent meal. | 虽然现实会令人恐惧，令人痛苦，但它仍然是唯一一个能够让你吃到一顿大餐的地方。 |
+ | 219.Optimists are right. Pessimists are right. It's up to you to choose which you will be.                 | 乐观者是对的，悲观者也没错，你自己决定你想成为哪种人。
+ | 220.Disbelief is more resistant than faith becauce it is sustained by the senses.                          | 不信任比信任更顽固，因为它是由感官支撑的。                                   |
+ | 221.Talent hits a target no one else can hit; Genius hits a target no one else can see.                    | 能者达人所不达，智者达人所未见。                                             |
+ | 222.Be yourself; everyone else is already taken.                                                           | 做你自己，因为别人都有人做了。                                               |
+ | 223.Let the dead have the immortality of fame, but the living the immortality of love.                     | 让逝者拥有不朽的荣誉，让生者拥有不朽的爱情。                                 |
+ | 224.Never twist yourself just to please the world.                                                         | 永远不要为了讨好这个世界，而扭曲了自己。                                     |
+ | 225.You will see exactly what life is worth, when all the rest has gone.                                   | 当一切都消失的时候你会明白生命究竟有何价值。                                 |
+ | 226.The most important thing in communication is hearing what isn't said.                                  | 与人沟通，最重要的是能听出言外之意。                                         |
+ | 227.The deepest principle in human nature is the craving to be appreciated.                                | 人性中最深刻的本能就是对被欣赏的渴望。                                       |
+ | 228.By its very nature, history is always a one-sides account.                                             | 就其本质而言，历史始终是一面之词。                                           |
+ 
+
+
+
+
+
+
+
+
+
+### 2
+ | English | Chinese |
+ |---------|---------|
+ 
 
 
 
@@ -408,6 +526,7 @@ ____          _            _       _____
 | a perpetual state of sth                    | 某事物持续的状态                       |
 | be in focus                                 | 受关注                                 |
 | a minor detail                              | 微小的细节                             |
+| a prolonged ovation                         | 经久不息的掌声                         |
 |
 
 
@@ -418,7 +537,7 @@ ____          _            _       _____
 
 
 # words
-### 单词
+### 单词012
 | English    | Chinese        |
 |------------|----------------|
 | guide      | 指导           |
@@ -432,7 +551,8 @@ ____          _            _       _____
 | mist       | 模糊           |
 | mellow     | 成熟的, 柔和的 |
 | mature     | 成熟的         |
-
+| ovation    | 热烈欢迎       |
+|
 
 
 
