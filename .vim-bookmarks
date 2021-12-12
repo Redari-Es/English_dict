@@ -1,3 +1,0 @@
-let l:bm_file_version = 1
-let l:bm_sessions = {'default': {'/home/redaries/Document/Libirary/English_dict/English_words.md': [{'sign_idx': 9502, 'line_nr': 138, 'content': '### 1'},{'sign_idx': 9504, 'line_nr': 32, 'content': '### 0'},{'sign_idx': 9503, 'line_nr': 242, 'content': '### 2'},],}}
-let l:bm_current_session = 'default'
