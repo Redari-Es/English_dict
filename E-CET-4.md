@@ -1,19 +1,18 @@
 ```
 
-  ____ _____ _____     _  _   
- / ___| ____|_   _|   | || |  
-| |   |  _|   | |_____| || |_ 
+  ____ _____ _____     _  _
+ / ___| ____|_   _|   | || |
+| |   |  _|   | |_____| || |_
 | |___| |___  | |_____|__   _|
- \____|_____| |_|        |_|  
-                              
+ \____|_____| |_|        |_|
+
 
 ```
-## This is words for the CET4   
+## This is words for the CET4
 
 
 
 
-<!-- TOC GFM -->
 
 - [A](#a)
 - [B](#b)
@@ -44,7 +43,6 @@
 - [Q](#q-1)
 - [同义词](#同义词)
 
-<!-- /TOC -->
 
 
 ### A
@@ -122,7 +120,7 @@
 | arithmetic   | n.             | 算术             |
 | arrange      | vt.            | 整理             |
 | arouse       | vt.            | 引起             |
-| arrage       | vt.            | 整理             |
+| arrage       | vt.            | 排列             |
 | arrest       | vt.            | 逮捕             |
 | aspect       | n.             | 方面，形势       |
 | assemble     | vt&vi.         | 集合             |
@@ -330,7 +328,7 @@
 | comfort        | n.             | 安慰                       |
 | commerce       | n.             | 商业                       |
 | commercial     | adj.           | 商业的                     |
-| commissiion    | n.             | 委员会                     |
+| commission    | n.             | 委员会                     |
 | commitee       | n.             | 委员会                     |
 | communism      | n.             | 共产主义                   |
 | communist      | n.             | 共产主义者                 |
@@ -367,9 +365,9 @@
 | conduct        | v.             | 组织，执行，指挥           |
 | conductor      | n.             | 导体，售票员，乐队指挥     |
 | confess        | v.             | 供认；承认；坦白           |
-| comfine        | vt.            | 局限                       |
-| comfirm        | vt.            | 确认，批准                 |
-| comflict       | n.             | 冲突；战斗                 |
+| confine        | vt.            | 局限                       |
+| confirm        | vt.            | 确认，批准                 |
+| conflict       | n.             | 冲突；战斗                 |
 | congress       | n.             | 国会                       |
 | conjunction    | n.             | 连词；连接                 |
 | conquer        | vt.            | 征服，克服                 |
