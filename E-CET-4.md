@@ -835,7 +835,7 @@
 | horror       | n.             | 恐怖；痛恨                               |
 | hostess      | n.             | 女主人；女招待                           |
 | hostile      | adj.           | 敌人的；怀有敌意的                       |
-| housewhold   | n.             | 家庭；全家人                             |
+| household   | n.             | 家庭；全家人                             |
 | humble       | adj.           | 谦虚的；简陋的                           |
 | humid        | adj.           | 潮湿的；湿润的                           |
 | hut          | n.             | 小屋；临时营房                           |
