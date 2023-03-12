@@ -423,7 +423,7 @@
 | cost           | n.             | 价钱，花费                 |
 | costly         | adj.           | 昂贵的                     |
 | cottage        | n.             | 小屋，小别墅               |
-| cottton        | n.             | 棉                         |
+| cotton        | n.             | 棉                         |
 | cough          | vt.&vi.        | 咳嗽                       |
 | council        | n.             | 委员会                     |
 | counter        | n.             | 柜台;计数器                |
